@@ -1,0 +1,4 @@
+{
+  "name": "hello-ci",
+  "scripts": { "test": "node -e \"console.log('ok')\"" }
+}
